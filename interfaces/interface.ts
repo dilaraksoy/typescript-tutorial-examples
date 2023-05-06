@@ -1,4 +1,3 @@
-
 // Declare an interface by "interface" keyword
 interface ICar {
     model: string;

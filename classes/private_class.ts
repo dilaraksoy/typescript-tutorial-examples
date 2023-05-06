@@ -1,8 +1,3 @@
-/**
- * Declaring a private class
- *  
- */
-
 module MyModule {
     export class MyPublicClass {
       private myPrivateNumber: number;
